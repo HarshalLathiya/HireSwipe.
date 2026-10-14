@@ -1,0 +1,1 @@
+<div class="page-container"><div class="empty-state"><h2>Job preview</h2><p>Open a job from your workspace to review its details.</p><a class="btn btn-dark" href="<?=url('employer-home')?>">Back to workspace</a></div></div>
